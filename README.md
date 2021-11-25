@@ -1,3 +1,3 @@
 # PythonStudyNotes
 Topics with some information to repeat or remember the theme
-![Alt-here we go](https://vk.com/feed?section=likes&z=photo-102018175_457279143%2Fliked662529711)
+![Alt-here we go](https://sun9-43.userapi.com/impg/Kkid3cyq0tprQGUgUxSwhbtgzij9-S-21sR2RA/j1MjgKvCIRg.jpg?size=813x519&quality=96&sign=aaf1e4dc04c11c2a5155fbd8583d4c9b&type=album)
