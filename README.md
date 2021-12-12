@@ -331,3 +331,118 @@ end
    ` print("empty")`
     
 //empty
+
+Словарь
+
+`Alien = {“color”: “green”, ”points”: 5}`
+
+`Print(alien[“points”])`
+
+// 5
+
+Добавление ключ – значения в словарь:
+
+`Alien[“heads”] = 3`
+
+Создание пустого словаря:
+
+`Alien = {}`
+
+Изменения значения в словаре при уже существующем с ключом “color”: 
+
+`Alien[“color”] = “red”`
+
+Удаление ключа соответственно вместо со значением:
+
+`Del alien[“color”]`
+
+Перебор всех пар ключ-значение через цикл:
+
+`For key, value in user.items() : `
+
+`Print(…)`
+
+`Print(…)`
+
+
+Перебор всех ключей в словаре:
+
+`For name in array.keys() : `
+
+	Print(…)`
+
+Или можно просто без `.keys()` :
+
+`For name in dictionary :`
+
+ `Print()`
+ 
+Выводить тоже будет ключи с словаре
+
+Проверка ключа в списке :
+
+`If “Egor” not in dictionary.keys() : `
+
+ ` Print()`
+
+Сортировочный метод получения элементов ключей в алфавитном порядке:
+
+`For name in sorted(dictionary.keys()) :`
+
+	 `Print(…)`
+
+Перебор всех значений в словаре:
+
+`For language in languages.values() : `
+
+ `Print(…)`
+
+Вывод уникальных значений из словаря:
+
+`For name in set(names.value()) :`
+
+ `Print(name)`
+
+Словарь в списке:
+
+`Aliens = []`
+
+`For alien in range(10) : `
+
+ `newAlien = {“color” : “red”, “point” : 10}`
+ 
+ `alliens.append(newAlien)`
+
+`for alien in aliens :` 
+
+ `alien[“color”] = “yellow”`
+
+
+Список в словаре:
+
+`Pizza = {“cost”:100, “toppings”: [“cheese”, “mushrooms”]}`
+
+`For topping in pizza[“toppings”] : `
+
+ `Print(topping)`
+
+-------------------------
+
+`Dictionary = {“Egor”: [“C++”, “Swift”], “Danil”: [“Java”, “Python”]}`
+
+`For name, languages in dictionary.items() : `
+
+ `For language in languages : `
+ 
+  `Print(language)`
+
+
+Словарь в словаре:
+
+`Users = {“Egor”: {“home”: ”Russia”, ”age”:  16}, “Danil”: {“home”: ”Spain”, ”age”: 20}}`
+
+`For user, userInfo in users.items() :`
+
+ `Home = userInfo[“home”]`
+ 
+ `Age = userInfo[“age”]`
