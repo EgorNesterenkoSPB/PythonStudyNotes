@@ -4,6 +4,7 @@
 
 - [Syntax](https://github.com/EgorNesterenkoSPB/PythonStudyNotes#Syntax)
 - [Collections](https://github.com/EgorNesterenkoSPB/PythonStudyNotes#Collections)
+  - [OrderedDict](https://github.com/EgorNesterenkoSPB/PythonStudyNotes#OrderedDict)
 
 ## Syntax
 
