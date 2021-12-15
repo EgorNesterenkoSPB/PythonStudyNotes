@@ -3,6 +3,8 @@
 ![Alt-here we go](https://sun9-45.userapi.com/impg/UgUbvLP-EjVueaNLdjM4kaSdewuAQ2sffMrsJg/yBFjglfgQtY.jpg?size=640x823&quality=96&sign=8ced8c778aaef4554e382da0bbe2a014&type=album)
 
 - [Syntax](https://github.com/EgorNesterenkoSPB/PythonStudyNotes#Syntax)
+- [Collections](https://github.com/EgorNesterenkoSPB/PythonStudyNotes#Collections)
+ - [OrderedDict](https://github.com/EgorNesterenkoSPB/PythonStudyNotes#OrderedDict)
 
 ## Syntax
 
@@ -717,6 +719,8 @@ Yellow
 Импортируем класс из модуля: ` from имяМодуля import имяКласса1, имяКласса2`
 
 Импортирование всего модуля: `import имяМодуля`
+
+## Collections
 
 ## OrderedDict
 
